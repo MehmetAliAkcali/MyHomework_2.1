@@ -1,7 +1,7 @@
 class Porsche:Araba{
-      public void YetenekleriYazdir(string isim)
+      public void YetenekleriYazdir(string marka)
         {
-            Console.WriteLine(isim +": Havada uçar.");
+            Console.WriteLine(marka+": Havada uçar.");
         }
     }
 
