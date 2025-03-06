@@ -1,4 +1,4 @@
-class Araba
+class Araba:IYetenekler
 {
     public string marka;
 
