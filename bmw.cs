@@ -1,7 +1,7 @@
 class BMW:Araba {
-   public void YetenekleriYazdir(string isim)
+   public void YetenekleriYazdir(string marka)
         {
-            Console.WriteLine(isim +": Çok hızlı gider, denizde yüzer, havada uçar.");
+            Console.WriteLine(marka +": Çok hızlı gider, denizde yüzer, havada uçar.");
         }
 
     }
