@@ -1,6 +1,6 @@
 class Mercedes:Araba {
-      public void YetenekleriYazdir(string isim)
+      public void YetenekleriYazdir(string marka)
         {
-            Console.WriteLine(isim +": Denizde yüzer, havada uçar.");
+            Console.WriteLine(marka +": Denizde yüzer, havada uçar.");
         }
     }
