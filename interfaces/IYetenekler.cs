@@ -1,4 +1,4 @@
 public interface IYetenekler
 {
-    void YetenekleriYazdir(String isim);
+    void YetenekleriYazdir(String marka);
 }
